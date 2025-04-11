@@ -31,7 +31,7 @@
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Eliahhango/Sahl/fork)***
    
-5.  ***Deploy on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
+5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Eliahhango/sahl/tree/main***
 6.  ***Deploy on [`Replit`](https://suhail-web.vercel.app/deploy?platform=replit)***  
 7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
 8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
