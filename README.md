@@ -27,7 +27,7 @@
  
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://sahl-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://suhail-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Eliahhango/Sahl/fork)***
    
